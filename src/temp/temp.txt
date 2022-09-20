@@ -1,0 +1,14 @@
+(*) fix home page
+(*) implement sorting in the products page
+(*) implement the search bar
+(*) apply hoc in checkbox type filters
+(*) search the images and place them
+
+biswajit@gmail.com
+root123
+
+jhon96@gmail.com
+root123
+
+jane96@gmail.com
+root123

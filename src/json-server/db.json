@@ -1,0 +1,596 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 16500,
+      "brand": "LG",
+      "rating": 4.4,
+      "memory": 4,
+      "storage": 64,
+      "battery": 4000,
+      "title": "LG K42",
+      "subtitle": "LG stands for life is good",
+      "camera": "13MP + 5MP",
+      "images": [
+        "../../../../../image/products/lg/id1/lg1.png",
+        "../../../../../image/products/lg/id1/lg2.png",
+        "../../../../../image/products/lg/id1/lg3.png",
+        "../../../../../image/products/lg/id1/lg4.png",
+        "../../../../../image/products/lg/id1/lg5.png",
+        "../../../../../image/products/lg/id1/lg6.png",
+        "../../../../../image/products/lg/id1/lg7.png",
+        "../../../../../image/products/lg/id1/lg8.png"
+      ]
+    },
+    {
+      "id": 2,
+      "price": 26000,
+      "brand": "LG",
+      "rating": 3.4,
+      "memory": 6,
+      "storage": 128,
+      "battery": 4500,
+      "title": "LG Q Stylus",
+      "subtitle": "LG is a better brand",
+      "camera": "10MP + 3MP",
+      "images": [
+        "../../../../../image/products/lg/id2/lg1.png",
+        "../../../../../image/products/lg/id2/lg2.png",
+        "../../../../../image/products/lg/id2/lg3.png",
+        "../../../../../image/products/lg/id2/lg4.png",
+        "../../../../../image/products/lg/id2/lg5.png",
+        "../../../../../image/products/lg/id2/lg6.png",
+        "../../../../../image/products/lg/id2/lg7.png",
+        "../../../../../image/products/lg/id2/lg8.png"
+      ]
+    },
+    {
+      "id": 3,
+      "price": 12000,
+      "brand": "LG",
+      "rating": 4.6,
+      "memory": 8,
+      "storage": 256,
+      "battery": 5600,
+      "title": "LG G7+ ThinQ",
+      "subtitle": "LG the gibrish brand",
+      "camera": "8MP + 6MP",
+      "images": [
+        "../../../../../image/products/lg/id3/lg1.png",
+        "../../../../../image/products/lg/id3/lg2.png",
+        "../../../../../image/products/lg/id3/lg3.png",
+        "../../../../../image/products/lg/id3/lg4.png"
+      ]
+    },
+    {
+      "id": 4,
+      "price": 18000,
+      "brand": "LG",
+      "rating": 3.9,
+      "memory": 4,
+      "storage": 128,
+      "battery": 3500,
+      "title": "LG G Pro 2",
+      "subtitle": "LG the super master brand",
+      "camera": "12.5MP + 6MP",
+      "images": [
+        "../../../../../image/products/lg/id4/lg1.webp",
+        "../../../../../image/products/lg/id4/lg2.webp",
+        "../../../../../image/products/lg/id4/lg3.webp",
+        "../../../../../image/products/lg/id4/lg4.webp",
+        "../../../../../image/products/lg/id4/lg5.webp",
+        "../../../../../image/products/lg/id4/lg6.webp",
+        "../../../../../image/products/lg/id4/lg7.webp",
+        "../../../../../image/products/lg/id4/lg8.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "price": 28000,
+      "brand": "LG",
+      "rating": 4.1,
+      "memory": 4,
+      "storage": 64,
+      "battery": 5500,
+      "title": "LG W41",
+      "subtitle": "LG the korean brand",
+      "camera": "16MP + 4MP",
+      "images": [
+        "../../../../../image/products/lg/id5/lg2.webp",
+        "../../../../../image/products/lg/id5/lg3.webp",
+        "../../../../../image/products/lg/id5/lg4.webp",
+        "../../../../../image/products/lg/id5/lg5.webp",
+        "../../../../../image/products/lg/id5/lg6.webp",
+        "../../../../../image/products/lg/id5/lg7.webp",
+        "../../../../../image/products/lg/id5/lg8.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "price": 24000,
+      "brand": "LG",
+      "rating": 3.9,
+      "memory": 8,
+      "storage": 128,
+      "battery": 4400,
+      "title": "LG W31",
+      "subtitle": "LG the icc master brand",
+      "camera": "13MP + 5MP",
+      "images": [
+        "../../../../../image/products/lg/id6/lg1.webp",
+        "../../../../../image/products/lg/id6/lg2.webp",
+        "../../../../../image/products/lg/id6/lg3.webp",
+        "../../../../../image/products/lg/id6/lg4.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "price": 15500,
+      "brand": "LG",
+      "rating": 4.1,
+      "memory": 6,
+      "storage": 128,
+      "battery": 4500,
+      "title": "LG Velvet",
+      "subtitle": "LG stands for life is good",
+      "camera": "10.4MP + 5.5MP",
+      "images": [
+        "../../../../../image/products/lg/id7/lg1.webp",
+        "../../../../../image/products/lg/id7/lg2.webp",
+        "../../../../../image/products/lg/id7/lg3.webp",
+        "../../../../../image/products/lg/id7/lg4.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "price": 17000,
+      "brand": "LG",
+      "rating": 4.2,
+      "memory": 6,
+      "storage": 128,
+      "battery": 5600,
+      "title": "LG G4",
+      "subtitle": "LG stands for life is good",
+      "camera": "13MP + 5MP",
+      "images": [
+        "../../../../../image/products/lg/id8/lg1.webp",
+        "../../../../../image/products/lg/id8/lg2.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "price": 16500,
+      "brand": "Mi",
+      "rating": 4.4,
+      "memory": 4,
+      "storage": 64,
+      "battery": 4000,
+      "title": "Mi Note 11",
+      "subtitle": "Mi stands for life is good",
+      "camera": "13MP + 5MP",
+      "images": [
+        "../../../../../image/products/mi/id1/mi1.webp",
+        "../../../../../image/products/mi/id1/mi2.webp",
+        "../../../../../image/products/mi/id1/mi3.webp",
+        "../../../../../image/products/mi/id1/mi4.webp",
+        "../../../../../image/products/mi/id1/mi5.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "price": 16900,
+      "brand": "Mi",
+      "rating": 3.3,
+      "memory": 6,
+      "storage": 128,
+      "battery": 4600,
+      "title": "Mi 9A",
+      "subtitle": "Mi is a better brand",
+      "camera": "10MP + 3MP",
+      "images": [
+        "../../../../../image/products/mi/id2/mi1.webp",
+        "../../../../../image/products/mi/id2/mi2.webp",
+        "../../../../../image/products/mi/id2/mi3.webp",
+        "../../../../../image/products/mi/id2/mi4.webp",
+        "../../../../../image/products/mi/id2/mi5.webp"
+      ]
+    },
+    {
+      "id": 11,
+      "price": 12000,
+      "brand": "Mi",
+      "rating": 4.6,
+      "memory": 8,
+      "storage": 256,
+      "battery": 5600,
+      "title": "Mi 9 (Blue)",
+      "subtitle": "Mi the gibberish brand",
+      "camera": "8MP + 6MP",
+      "images": [
+        "../../../../../image/products/mi/id3/mi1.webp",
+        "../../../../../image/products/mi/id3/mi2.webp",
+        "../../../../../image/products/mi/id3/mi3.webp",
+        "../../../../../image/products/mi/id3/mi4.webp",
+        "../../../../../image/products/mi/id3/mi5.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "price": 21500,
+      "brand": "Mi",
+      "rating": 3.8,
+      "memory": 6,
+      "storage": 64,
+      "battery": 3900,
+      "title": "Mi Note 9 Pro",
+      "subtitle": "Mi the super master brand",
+      "camera": "12.5MP + 6MP",
+      "images": [
+        "../../../../../image/products/Mi/id4/mi1.webp",
+        "../../../../../image/products/Mi/id4/mi2.webp",
+        "../../../../../image/products/Mi/id4/mi3.webp",
+        "../../../../../image/products/Mi/id4/mi4.webp",
+        "../../../../../image/products/Mi/id4/mi5.webp",
+        "../../../../../image/products/Mi/id4/mi6.webp",
+        "../../../../../image/products/Mi/id4/mi7.webp",
+        "../../../../../image/products/Mi/id4/mi8.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "price": 19300,
+      "brand": "Mi",
+      "rating": 4.3,
+      "memory": 6,
+      "storage": 256,
+      "battery": 5400,
+      "title": "Mi 8",
+      "subtitle": "Mi the chinese brand",
+      "camera": "16MP + 2MP",
+      "images": [
+        "../../../../../image/products/Mi/id5/mi1.webp",
+        "../../../../../image/products/Mi/id5/mi2.webp",
+        "../../../../../image/products/Mi/id5/mi3.webp",
+        "../../../../../image/products/Mi/id5/mi4.webp",
+        "../../../../../image/products/Mi/id5/mi5.webp",
+        "../../../../../image/products/Mi/id5/mi6.webp",
+        "../../../../../image/products/Mi/id5/mi7.webp",
+        "../../../../../image/products/Mi/id5/mi8.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "price": 23000,
+      "brand": "Mi",
+      "rating": 3.7,
+      "memory": 8,
+      "storage": 256,
+      "battery": 4400,
+      "title": "Mi Note 8",
+      "subtitle": "Mi the icc master brand",
+      "camera": "13MP + 5MP",
+      "images": [
+        "../../../../../image/products/Mi/id6/mi1.webp",
+        "../../../../../image/products/Mi/id6/mi2.webp",
+        "../../../../../image/products/Mi/id6/mi3.webp",
+        "../../../../../image/products/Mi/id6/mi4.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "price": 25500,
+      "brand": "Mi",
+      "rating": 4.5,
+      "memory": 6,
+      "storage": 128,
+      "battery": 4500,
+      "title": "Mi 12 Pro",
+      "subtitle": "Mi stands for life is good",
+      "camera": "10.4MP + 5.5MP",
+      "images": [
+        "../../../../../image/products/Mi/id7/mi1.webp",
+        "../../../../../image/products/Mi/id7/mi2.webp",
+        "../../../../../image/products/Mi/id7/mi3.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "price": 17800,
+      "brand": "Mi",
+      "rating": 4.2,
+      "memory": 4,
+      "storage": 64,
+      "battery": 3600,
+      "title": "Mi Note 7",
+      "subtitle": "Mi stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/Mi/id8/mi1.webp",
+        "../../../../../image/products/Mi/id8/mi2.webp",
+        "../../../../../image/products/Mi/id8/mi3.webp",
+        "../../../../../image/products/Mi/id8/mi4.webp",
+        "../../../../../image/products/Mi/id8/mi5.webp"
+      ]
+    },
+    {
+      "id": 17,
+      "price": 18800,
+      "brand": "Nokia",
+      "rating": 4.3,
+      "memory": 4,
+      "storage": 64,
+      "battery": 3700,
+      "title": "Nokia G21",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/nokia/id1/n1.webp",
+        "../../../../../image/products/nokia/id1/n2.webp",
+        "../../../../../image/products/nokia/id1/n3.webp",
+        "../../../../../image/products/nokia/id1/n4.webp",
+        "../../../../../image/products/nokia/id1/n5.webp",
+        "../../../../../image/products/nokia/id1/n6.webp",
+        "../../../../../image/products/nokia/id1/n7.webp",
+        "../../../../../image/products/nokia/id1/n8.webp"
+      ]
+    },
+    {
+      "id": 18,
+      "price": 19900,
+      "brand": "OPPO",
+      "rating": 4.3,
+      "memory": 6,
+      "storage": 64,
+      "battery": 4700,
+      "title": "OPPO A15S",
+      "subtitle": "OPPO stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/oppo/id1/o1.webp",
+        "../../../../../image/products/oppo/id1/o2.webp",
+        "../../../../../image/products/oppo/id1/o3.webp",
+        "../../../../../image/products/oppo/id1/o4.webp"
+      ]
+    },
+    {
+      "id": 19,
+      "price": 20900,
+      "brand": "Realme",
+      "rating": 3.7,
+      "memory": 6,
+      "storage": 128,
+      "battery": 4400,
+      "title": "Realme Narzo 50",
+      "subtitle": "Realme stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/realme/id1/r1.webp",
+        "../../../../../image/products/realme/id1/r2.webp",
+        "../../../../../image/products/realme/id1/r3.webp",
+        "../../../../../image/products/realme/id1/r4.webp",
+        "../../../../../image/products/realme/id1/r5.webp",
+        "../../../../../image/products/realme/id1/r6.webp"
+      ]
+    },
+    {
+      "id": 20,
+      "price": 21800,
+      "brand": "Samsung",
+      "rating": 4.7,
+      "memory": 8,
+      "storage": 256,
+      "battery": 4500,
+      "title": "Samsung Galaxy A12",
+      "subtitle": "Samsung stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/samsung/id1/s1.webp",
+        "../../../../../image/products/samsung/id1/s2.webp",
+        "../../../../../image/products/samsung/id1/s3.webp",
+        "../../../../../image/products/samsung/id1/s4.webp"
+      ]
+    },
+    {
+      "id": 21,
+      "price": 22600,
+      "brand": "SONY",
+      "rating": 3.5,
+      "memory": 6,
+      "storage": 128,
+      "battery": 3900,
+      "title": "SONY Xperia XA1 Plus",
+      "subtitle": "SONY stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/sony/id1/s1.webp",
+        "../../../../../image/products/sony/id1/s2.webp",
+        "../../../../../image/products/sony/id1/s3.webp",
+        "../../../../../image/products/sony/id1/s4.webp",
+        "../../../../../image/products/sony/id1/s5.webp",
+        "../../../../../image/products/sony/id1/s6.webp"
+      ]
+    },
+    {
+      "id": 22,
+      "price": 22600,
+      "brand": "Vivo",
+      "rating": 4.5,
+      "memory": 4,
+      "storage": 64,
+      "battery": 4000,
+      "title": "Vivo Y21A",
+      "subtitle": "Vivo stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/vivo/id1/v1.webp",
+        "../../../../../image/products/vivo/id1/v2.webp",
+        "../../../../../image/products/vivo/id1/v3.webp",
+        "../../../../../image/products/vivo/id1/v4.webp",
+        "../../../../../image/products/vivo/id1/v5.webp"
+      ]
+    },
+    {
+      "id": 23,
+      "price": 14800,
+      "brand": "Nokia",
+      "rating": 3.3,
+      "memory": 4,
+      "storage": 64,
+      "battery": 3400,
+      "title": "Nokia C21 Plus",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/nokia/id2/n1.webp",
+        "../../../../../image/products/nokia/id2/n2.webp",
+        "../../../../../image/products/nokia/id2/n3.webp",
+        "../../../../../image/products/nokia/id2/n4.webp",
+        "../../../../../image/products/nokia/id2/n5.webp",
+        "../../../../../image/products/nokia/id2/n6.webp"
+      ]
+    },
+    {
+      "id": 24,
+      "price": 15600,
+      "brand": "Nokia",
+      "rating": 3.7,
+      "memory": 6,
+      "storage": 128,
+      "battery": 3900,
+      "title": "Nokia 3.4",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/nokia/id3/n1.webp",
+        "../../../../../image/products/nokia/id3/n2.webp",
+        "../../../../../image/products/nokia/id3/n3.webp",
+        "../../../../../image/products/nokia/id3/n4.webp",
+        "../../../../../image/products/nokia/id3/n5.webp"
+      ]
+    },
+    {
+      "id": 25,
+      "price": 16900,
+      "brand": "Nokia",
+      "rating": 3.9,
+      "memory": 8,
+      "storage": 256,
+      "battery": 4000,
+      "title": "Nokia G20",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "8MP + 5MP",
+      "images": [
+        "../../../../../image/products/nokia/id4/n1.webp",
+        "../../../../../image/products/nokia/id4/n2.webp",
+        "../../../../../image/products/nokia/id4/n3.webp",
+        "../../../../../image/products/nokia/id4/n4.webp"
+      ]
+    },
+    {
+      "id": 26,
+      "price": 16900,
+      "brand": "Nokia",
+      "rating": 4.0,
+      "memory": 4,
+      "storage": 64,
+      "battery": 4100,
+      "title": "Nokia 2.4",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "6MP + 9MP",
+      "images": [
+        "../../../../../image/products/nokia/id5/n1.webp",
+        "../../../../../image/products/nokia/id5/n2.webp",
+        "../../../../../image/products/nokia/id5/n3.webp",
+        "../../../../../image/products/nokia/id5/n4.webp"
+      ]
+    },
+    {
+      "id": 27,
+      "price": 17400,
+      "brand": "Nokia",
+      "rating": 4.0,
+      "memory": 4,
+      "storage": 64,
+      "battery": 4100,
+      "title": "Nokia 5.4",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "18MP + 9MP",
+      "images": [
+        "../../../../../image/products/nokia/id6/n1.webp",
+        "../../../../../image/products/nokia/id6/n2.webp",
+        "../../../../../image/products/nokia/id6/n3.webp",
+        "../../../../../image/products/nokia/id6/n4.webp",
+        "../../../../../image/products/nokia/id6/n5.webp"
+      ]
+    },
+    {
+      "id": 28,
+      "price": 19200,
+      "brand": "Nokia",
+      "rating": 4.1,
+      "memory": 4,
+      "storage": 64,
+      "battery": 4200,
+      "title": "Nokia 8.1",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "12MP + 4MP",
+      "images": [
+        "../../../../../image/products/nokia/id7/n1.webp",
+        "../../../../../image/products/nokia/id7/n2.webp",
+        "../../../../../image/products/nokia/id7/n3.webp",
+        "../../../../../image/products/nokia/id7/n4.webp"
+      ]
+    },
+    {
+      "id": 29,
+      "price": 29200,
+      "brand": "Nokia",
+      "rating": 4.2,
+      "memory": 6,
+      "storage": 128,
+      "battery": 4300,
+      "title": "Nokia 5.1",
+      "subtitle": "Nokia stands for life is good",
+      "camera": "12MP + 4MP",
+      "images": [
+        "../../../../../image/products/nokia/id8/n1.webp",
+        "../../../../../image/products/nokia/id8/n2.webp",
+        "../../../../../image/products/nokia/id8/n3.webp",
+        "../../../../../image/products/nokia/id8/n4.webp",
+        "../../../../../image/products/nokia/id8/n5.webp"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 3,
+      "comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "comment": "Review 2 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "comment": "Review 3 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "comment": "Review 1 for product id 3",
+      "productId": 3
+    }
+  ]
+}
